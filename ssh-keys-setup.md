@@ -128,12 +128,16 @@ If there are errors then we may need to do some updates or other changes.  The d
 
 ## References:
 
-* [Check if Public Keys Already Exist](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keys)
-* [Generating SSH Keys and Adding Public Key to GitHub](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+* [Check if Public Keys Already Exist](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keys)  
+
+* [Generating SSH Keys and Adding Public Key to GitHub](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)  
+
 * [Copy Public Key to Clipboard](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
 
 * [GitLab Documentation](https://docs.gitlab.com/ee/ssh/)
 
-* [Broad Troubleshooting Example](https://stackoverflow.com/questions/40427498/getting-permission-denied-public-key-on-gitlab?rq=1)
+* [Broad Troubleshooting Example](https://stackoverflow.com/questions/40427498/getting-permission-denied-public-key-on-gitlab?rq=1)  
+
+* [Understanding Encryption](https://ssd.eff.org/module/deep-dive-end-end-encryption-how-do-public-key-encryption-systems-work)
 
 

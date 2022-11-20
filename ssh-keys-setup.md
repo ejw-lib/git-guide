@@ -134,4 +134,6 @@ If there are errors then we may need to do some updates or other changes.  The d
 
 * [GitLab Documentation](https://docs.gitlab.com/ee/ssh/)
 
+* [Broad Troubleshooting Example](https://stackoverflow.com/questions/40427498/getting-permission-denied-public-key-on-gitlab?rq=1)
+
 

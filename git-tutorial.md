@@ -42,17 +42,52 @@ General Instructions:
 View branches and current checked out branch:  `git branch --all`
 
 
+## Issues
+
+[Git will not Remember Credentials on Windows](https://snede.net/git-does-not-remember-username-password/)  
+
+[Authentication Failed - Credential Password Changes](https://stackoverflow.com/questions/47860772/gitlab-remote-http-basic-access-denied-and-fatal-authentication)  
+
+[More about Credential Helpers](https://stackoverflow.com/questions/5343068/is-there-a-way-to-cache-https-credentials-for-pushing-commits)
 
 
 ## References
 
 [Creating a Github Personal Access Token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) 
 
-[How to Write a Commit Message](https://cbea.ms/git-commit/)
+[Repo Setup via Terminal](https://guides.codepath.com/ios/Using-Git-with-Terminal)
 
-[Github Teams](https://docs.github.com/en/organizations/organizing-members-into-teams/about-teams)
-[Working as a Team](https://blog.hipolabs.com/how-to-work-in-a-team-version-control-and-git-923dfec2ac3b)
-[How to Fork a Repo](https://docs.github.com/en/enterprise/2.13/user/articles/fork-a-repo#)
+[Create .gitignore File](https://www.pluralsight.com/guides/how-to-use-gitignore-file)
+
+[Git Cheat Sheet with Explanations](https://www.jrebel.com/blog/git-cheat-sheet)
+
+[How to Write a Commit Message](https://cbea.ms/git-commit/)  
+
+[Git for Team Collaboration](https://medium.com/anne-kerrs-blog/using-git-and-github-for-team-collaboration-e761e7c00281)
+
+[Github Teams](https://docs.github.com/en/organizations/organizing-members-into-teams/about-teams)  
+
+[Working as a Team](https://blog.hipolabs.com/how-to-work-in-a-team-version-control-and-git-923dfec2ac3b)  
+
+[How to Fork a Repo](https://docs.github.com/en/enterprise/2.13/user/articles/fork-a-repo#)  
+
+[Delete Remote/Local Branches](https://www.freecodecamp.org/news/how-to-delete-a-git-branch-both-locally-and-remotely/)  
+
+[Git Pull](https://www.atlassian.com/git/tutorials/syncing/git-pull)
+
+[Git Merge/Conflict Resolution](https://www.atlassian.com/git/tutorials/using-branches/git-merge#)  
+
+[Tips and Tricks of Github Pages](https://stackoverflow.com/questions/8446218/how-to-see-an-html-page-on-github-as-a-normal-rendered-html-page-to-see-preview)
+
+## Advanced 
+
+[Creating a Github Package](https://dev.to/dalenguyen/create-your-first-github-package-564f)  
+
+[Splitting Repo - Keeping History](https://medium.com/@ayushya/move-directory-from-one-repository-to-another-preserving-git-history-d210fa049d4b)  
+
+[Handling Project Dependencies](https://webmasters.stackexchange.com/questions/84378/how-can-i-create-a-git-repo-that-contains-several-other-git-repos)
+
+
 
 
 

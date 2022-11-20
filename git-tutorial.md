@@ -50,6 +50,7 @@ General Instructions:
 
 View branches and current checked out branch:  `git branch --all`
 
+>  Access to an e-book can be found [here](https://git-scm.com/book/en/v2)
 
 ## Issues
 
@@ -57,7 +58,9 @@ View branches and current checked out branch:  `git branch --all`
 
 [Authentication Failed - Credential Password Changes](https://stackoverflow.com/questions/47860772/gitlab-remote-http-basic-access-denied-and-fatal-authentication)  
 
-[More about Credential Helpers](https://stackoverflow.com/questions/5343068/is-there-a-way-to-cache-https-credentials-for-pushing-commits)
+[More about Credential Helpers](https://stackoverflow.com/questions/5343068/is-there-a-way-to-cache-https-credentials-for-pushing-commits)  
+
+[VSCode Terminal Setup](https://www.roboleary.net/vscode/2020/09/15/vscode-git.html)  
 
 
 ## References
@@ -106,6 +109,8 @@ View branches and current checked out branch:  `git branch --all`
 
 [Handling Project Dependencies](https://webmasters.stackexchange.com/questions/84378/how-can-i-create-a-git-repo-that-contains-several-other-git-repos) and [Merging Repos](https://stackoverflow.com/questions/47559855/git-move-repository-to-a-subfolder-of-another-repository)  
 
+[Example of Git Subtree (Video)](https://www.youtube.com/watch?v=t3Qhon7burE)
+
 [Removing Sensitive Data from Repo](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository)  
 
 [Removing a File After Several Good Commits](https://stackoverflow.com/questions/307828/how-do-you-fix-a-bad-merge-and-replay-your-good-commits-onto-a-fixed-merge)  
@@ -126,7 +131,7 @@ Git Msg on Pull similar to:  `fatal: bad object refs/remotes/upstream/main`
 
 Git Msg on Merge similar to:  
 `fatal: refusing to merge unrelated histories`  
-- Solution:  use `--allow-unrelated-histories attribute.  
+- Solution:  use `--allow-unrelated-histories attribute`  
 - [Link](https://www.educative.io/answers/the-fatal-refusing-to-merge-unrelated-histories-git-error)
 
 

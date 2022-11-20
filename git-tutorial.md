@@ -1,5 +1,18 @@
 # git-tutorial  
 
+Basic Configuration:
+- `git config --global user.name "<first last name>"`  
+- `git config --global user.email "<email>"`
+- `git config --global color.ui true`
+- `git config --list`  
+
+Add local repo to github  
+- Initialize local folder:  `git init -b main`  
+- Prep for push:  `git add . && git commit -m "<add message>"`  
+- Push to remote address:  `git remote add origin <remote url>`
+- Verify address:  `git remote -v`  
+- Push new files/updates:  `git push origin main`
+
 Check status: `git status`  
 
 Common remote updates:  
@@ -31,8 +44,15 @@ View branches and current checked out branch:  `git branch --all`
 
 
 
+## References
 
+[Creating a Github Personal Access Token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) 
 
+[How to Write a Commit Message](https://cbea.ms/git-commit/)
+
+[Github Teams](https://docs.github.com/en/organizations/organizing-members-into-teams/about-teams)
+[Working as a Team](https://blog.hipolabs.com/how-to-work-in-a-team-version-control-and-git-923dfec2ac3b)
+[How to Fork a Repo](https://docs.github.com/en/enterprise/2.13/user/articles/fork-a-repo#)
 
 
 

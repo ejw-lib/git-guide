@@ -103,9 +103,11 @@ The message also usually says that there is a difference between the remote (git
 
 This is a non-recoverable process.  So only do this if you have a practice repo and are sure you want to get rid of it.  
 
+1.  Before renaming the repo, make sure that the local repository has had all updates pushed to it.  
 1.  Go to your repo on GitHub
 1.  There is a black menu bar at the top and under it is a gray menu bar that starts with `<Code>`, ....  Go to the menu option in the gray bar that says `Settings`.  
 1.  To rename a repo, change the name in this location.
+1.  Copy the new https link (remote url) of the repo that ends with `.git`.  In a terminal located at the repo folder, update the remote url path with `git remote set-url origin <remote_url>`.  This completes the renaming process.   
 1.  At the bottom of the page in the `Danger Zone` section, there is a `Delete this repository` button.  Last warning, this can not be undone.
 1.  Select `Delete` and follow the instructions.  
 </details>
